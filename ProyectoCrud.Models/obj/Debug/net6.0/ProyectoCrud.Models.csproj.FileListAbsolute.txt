@@ -1,0 +1,12 @@
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\bin\Debug\net6.0\ProyectoCrud.Models.deps.json
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\bin\Debug\net6.0\ProyectoCrud.Models.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\bin\Debug\net6.0\ProyectoCrud.Models.pdb
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.csproj.AssemblyReference.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.AssemblyInfoInputs.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.AssemblyInfo.cs
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.csproj.CoreCompileInputs.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\refint\ProyectoCrud.Models.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ProyectoCrud.Models.pdb
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.Models\obj\Debug\net6.0\ref\ProyectoCrud.Models.dll

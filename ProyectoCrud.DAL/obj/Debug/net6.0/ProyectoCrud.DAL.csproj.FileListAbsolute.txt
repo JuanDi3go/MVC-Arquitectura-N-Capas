@@ -1,0 +1,17 @@
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.DAL.deps.json
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.DAL.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.DAL.pdb
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.AssemblyReference.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfoInputs.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.AssemblyInfo.cs
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\refint\ProyectoCrud.DAL.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.pdb
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ref\ProyectoCrud.DAL.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.DAL.runtimeconfig.json
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.genruntimeconfig.cache
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.Models.dll
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\bin\Debug\net6.0\ProyectoCrud.Models.pdb
+C:\Users\jdaguilar\Desktop\juan diego\Estudio\C#\Arquitectura N capas\Arquitectura N capas\ProyectoCrud.DAL\obj\Debug\net6.0\ProyectoCrud.DAL.csproj.CopyComplete
